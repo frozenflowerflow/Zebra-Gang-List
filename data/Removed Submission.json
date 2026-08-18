@@ -1,0 +1,18 @@
+{
+    "id": 52113279,
+    "name": "Removed Submission",
+    "author": "WHErwin",
+    "creators": ["WHErwin"],
+    "verifier": "Shinxer",
+    "verification": "https://youtu.be/dNYr0Ywydj8",
+    "percentToQualify": 100,
+    "password": "Copy",
+    "records": [
+       {
+            "user": "Hotdoggs",
+            "link": "https://www.youtube.com/watch?v=AAzRmUKMnOk",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
