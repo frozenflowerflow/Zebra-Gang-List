@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "Copy",
     "records": [
+                {
+            "user": "Hotdoggs",
+            "link": "https://www.youtube.com/watch?v=ozUNHz1y2dw",
+            "percent": 100,
+            "hz": 240
+                },
     ]
 }
