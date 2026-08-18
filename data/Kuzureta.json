@@ -1,0 +1,18 @@
+{
+    "id": 94156085,
+    "name": "test",
+    "author": "sminx",
+    "creators": ["DiamondSkull SrKiwi Mystic DrCuber Zetalock Teno augi Realvet zGod GhostVandalf Renn241 River nicor77 El3ctr0 Flamongo cxli Cybertron Kyhros ARWooly Genoxide"],
+    "verifier": "Diroti",
+    "verification": "https://youtu.be/dNYr0Ywydj8",
+    "percentToQualify": 100,
+    "password": "Copy",
+    "records": [
+       {
+            "user": "Legopiece",
+            "link": "https://youtu.be/wls-tawszcc",
+            "percent": 100,
+            "hz": 660
+        }
+    ]
+}
