@@ -1,0 +1,24 @@
+{
+    "id": 26681070,
+    "name": "Sonic Wave",
+    "author": "Cyclic",
+    "creators": ["Cyclic"],
+    "verifier": "Hotdoggs",
+    "verification": "https://youtu.be/f0Ua8o9bnVs",
+    "percentToQualify": "100",
+    "password": "Copy",
+    "records": [
+                {
+            "user": "shinxer",
+            "link": "https://zebra-gang-list.frozenflowerflow.workers.dev/#/",
+            "percent": 100,
+            "hz": 240
+                },
+                       {
+            "user": "Simse",
+            "link": "https://youtu.be/ptOsIoxwV7g",
+            "percent": 100,
+            "hz": 60
+                }
+    ]
+}
