@@ -1,0 +1,18 @@
+{
+    "id": 38235367,
+    "name": "Quantum Processing",
+    "author": "Riot",
+    "creators": ["Riot Crazen Zobros Sil3nce RobTop"],
+    "verifier": "Hotdoggs",
+    "verification": "https://youtu.be/sWpj14pOK5A",
+    "percentToQualify": 100,
+    "password": "Copy",
+    "records": [
+       {
+            "user": "Shinxer",
+            "link": "https://medal.tv/games/geometry-dash/clips/muU8cmxPg7nYTkbW5",
+            "percent": 100,
+            "hz": 240
+        }
+]
+}
