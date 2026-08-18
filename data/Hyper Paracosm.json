@@ -1,0 +1,18 @@
+{
+    "id": 42117203,
+    "name": "Hyper Paracosm",
+    "author": "iIiViRuZiIi",
+    "creators": ["iIiViRuZiIi TheRealSneaky"],
+    "verifier": "Hotdoggs",
+    "verification": "https://youtu.be/sWpj14pOK5A",
+    "percentToQualify": 100,
+    "password": "Copy",
+    "records": [
+       {
+            "user": "Legopiece",
+            "link": "https://youtu.be/PEYGLEuGm1M",
+            "percent": 100,
+            "hz": 825
+        }
+]
+}
