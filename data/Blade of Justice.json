@@ -3,10 +3,28 @@
     "name": "Blade of Justice",
     "author": "Manix648",
     "creators": ["LazerBlitz Panman Manix648"],
-    "verifier": "Hotdoggs",
-    "verification": "https://www.youtube.com/watch?v=4agMYuIiP5Q",
+    "verifier": "shinxer",
+    "verification": "https://www.youtube.com/watch?v=6018CbEjA-4",
     "percentToQualify": "100",
     "password": "Copy",
     "records": [
+                {
+            "user": "Hotdoggs",
+            "link": "https://medal.tv/games/geometry-dash/clips/kMzy1iwM6QRPC7AZ5",
+            "percent": 100,
+            "hz": 240
+                },
+                       {
+            "user": "Diroti",
+            "link": "https://www.youtube.com/watch?v=1UIGm3ItUTU&t=1s",
+            "percent": 100,
+            "hz": 240
+                },
+                       {
+            "user": "Legopiece",
+            "link": "https://www.youtube.com/watch?v=6ggbyLN4Fn8",
+            "percent": 100,
+            "hz": 820
+                }
     ]
 }
