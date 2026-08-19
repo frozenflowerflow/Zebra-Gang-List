@@ -1,0 +1,24 @@
+{
+    "id": 23262780,
+    "name": "Sakupen Hell",
+    "author": "TrusTa",
+    "creators": ["Noobas"],
+    "verifier": "Shinxer",
+    "verification": "https://www.youtube.com/watch?v=svyOjwLCErg",
+    "percentToQualify": "100",
+    "password": "Copy",
+    "records": [
+                {
+            "user": "Legopiece",
+            "link": "https://www.youtube.com/watch?v=pO_5onaXH5o",
+            "percent": 100,
+            "hz": 360
+                },
+                       {
+            "user": "Hotdoggs",
+            "link": "https://youtu.be/p7d5BE3OMOU",
+            "percent": 100,
+            "hz": 240
+                }
+    ]
+}
