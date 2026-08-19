@@ -8,5 +8,29 @@
     "percentToQualify": "100",
     "password": "Copy",
     "records": [
+                {
+            "user": "Hotdoggs",
+            "link": "https://www.youtube.com/watch?v=l0QVFSVBCkU",
+            "percent": 100,
+            "hz": 240
+                },
+                       {
+            "user": "Trenity",
+            "link": "https://www.youtube.com/watch?v=8uKB_5jINNw",
+            "percent": 100,
+            "hz": 1
+                },
+                       {
+            "user": "mesling",
+            "link": "https://www.youtube.com/watch?v=cuPhIC30Acw",
+            "percent": 100,
+            "hz": 144
+                },
+                       {
+            "user": "Legopiece",
+            "link": "https://www.youtube.com/watch?v=Gr9cpLhZaqY",
+            "percent": 100,
+            "hz": 660
+                }
     ]
 }
