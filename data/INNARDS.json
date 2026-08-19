@@ -1,0 +1,18 @@
+{
+    "id": 54588072,
+    "name": "INNARDS",
+    "author": "Kaito",
+    "creators": ["Kaito"],
+    "verifier": "Hotdoggs",
+    "verification": "https://youtu.be/iVlqhlgma94",
+    "percentToQualify": 100,
+    "password": "Copy",
+    "records": [
+       {
+            "user": "Simse",
+            "link": "https://youtu.be/y3FpvDwwxTk",
+            "percent": 100,
+            "hz": 240
+        }
+]
+}
