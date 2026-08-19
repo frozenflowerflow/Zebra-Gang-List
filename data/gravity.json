@@ -8,5 +8,17 @@
     "percentToQualify": "100",
     "password": "Copy",
     "records": [
+                {
+            "user": "Legopiece",
+            "link": "https://www.youtube.com/watch?v=s3MLVAxXr8c",
+            "percent": 100,
+            "hz": 825
+                },
+                       {
+            "user": "Trenity",
+            "link": "https://www.youtube.com/watch?v=nCZZ8g1ZQ2c",
+            "percent": 100,
+            "hz": 1208
+                }
     ]
 }
