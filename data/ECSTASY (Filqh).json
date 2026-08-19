@@ -1,6 +1,6 @@
 {
     "id": 78277793,
-    "name": "ECSTASY (Filqh)",
+    "name": "ECSTASY",
     "author": "fil",
     "creators": ["fil"],
     "verifier": "Shinxer",
@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "Copy",
     "records": [
+       {
+            "user": "Hotdoggs",
+            "link": "https://www.youtube.com/watch?v=7CTnR_rAeWE",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
