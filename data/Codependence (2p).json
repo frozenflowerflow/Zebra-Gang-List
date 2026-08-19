@@ -2,17 +2,17 @@
     "id": 27122654,
     "name": "Codependence (2p)",
     "author": "TCTeam",
-    "creators": ["eridani Cultrix Artos Keyblade Jhreen Hko Licen Yoonsrdynamix Konsi Xaren para Pingui Xyl Astion Brittank88 GaidenHertuny Isane Arceus Cotchy Peroxide Delta Woom Tom ViralDL CesDroid Carloz AutumnLotus Zent StarkytheSalad Yuki"],
+    "creators": ["eridani Cultrix Artos Keyblade Jhreen Hko Licen Yoonsrdynamix Konsi Xaren para Pingui Xyl Astion Nigga Brittank88 GaidenHertuny Isane Arceus Cotchy Peroxide Delta Woom Tom ViralDL CesDroid Carloz AutumnLotus Zent StarkytheSalad Yuki"],
     "verifier": "Viggd",
     "verification": "https://www.youtube.com/watch?v=LPoNScj0KKY",
     "percentToQualify": "100",
     "password": "Copy",
     "records": [
-                {
+       {
             "user": "Hotdoggs",
             "link": "https://www.youtube.com/watch?v=ozUNHz1y2dw",
             "percent": 100,
             "hz": 240
-                },
+        }
     ]
 }
