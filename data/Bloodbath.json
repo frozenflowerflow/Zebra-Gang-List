@@ -3,10 +3,34 @@
     "name": "Bloodbath",
     "author": "Riot",
     "creators": ["Asonicmen Evasium Crack Riot GgB0y Michigun Etzer Giron Havok weoweoteo Vermillion"],
-    "verifier": "Hotdoggs",
-    "verification": "https://www.youtube.com/watch?v=oOpb1GIrISE",
+    "verifier": "Simse",
+    "verification": "https://www.youtube.com/watch?v=LQry4XUoYOU",
     "percentToQualify": "100",
     "password": "Copy",
     "records": [
+                {
+            "user": "shinxer",
+            "link": "https://www.youtube.com/watch?v=twTw4fjT0ik",
+            "percent": 100,
+            "hz": 240
+                },
+                       {
+            "user": "Hotdoggs",
+            "link": "https://www.youtube.com/watch?v=oOpb1GIrISE",
+            "percent": 100,
+            "hz": 240
+                },
+                       {
+            "user": "Legopiece",
+            "link": "https://www.youtube.com/watch?v=e5E2G-Cuw-4",
+            "percent": 100,
+            "hz": 720
+                },
+                       {
+            "user": "Trenity",
+            "link": "https://www.youtube.com/watch?v=l0p1i3VlOAk",
+            "percent": 100,
+            "hz": 480
+                }
     ]
 }
