@@ -3,10 +3,16 @@
     "name": "Tenth Circle",
     "author": "DeniPol",
     "creator": ["DeniPol vNormDanchik"],
-    "verifier": "Hotdoggs",
-    "verification": "https://www.youtube.com/watch?v=8AwgpiHRhPA",
+    "verifier": "shinxer",
+    "verification": "https://www.youtube.com/watch?v=d3IYDgX_Vtk",
     "percentToQualify": "100",
     "password": "Copy",
     "records": [
-    ]
+       {
+            "user": "Hotdoggs",
+            "link": "https://www.youtube.com/watch?v=8AwgpiHRhPA",
+            "percent": 100,
+            "hz": 240
+        }
+]
 }
