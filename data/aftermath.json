@@ -1,0 +1,18 @@
+{
+    "id": 25610878,
+    "name": "aftermath",
+    "author": "Exenity",
+    "creators": ["Exenity knobbelboy squizz Ninkazz Vultra Rhythmic Waze Bassiegames Findexi"],
+    "verifier": "Hotdoggs",
+    "verification": "https://youtu.be/HXD9JSvKHrk",
+    "percentToQualify": "100",
+    "password": "Copy",
+    "records": [
+       {
+            "user": "Legopiece",
+            "link": "https://youtu.be/mTCl6Taqgt0",
+            "percent": 100,
+            "hz": 825
+        }
+    ]
+}
