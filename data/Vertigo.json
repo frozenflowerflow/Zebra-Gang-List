@@ -1,0 +1,18 @@
+{
+    "id": 108664680,
+    "name": "Vertigo",
+    "author": "PAHC",
+    "creators": ["PAHC"],
+    "verifier": "shinxer",
+    "verification": "https://www.youtube.com/watch?v=EnFM5WX66wc",
+    "percentToQualify": "100",
+    "password": "Copy",
+    "records": [
+       {
+            "user": "Viggd",
+            "link": "https://www.youtube.com/watch?v=8xfsg5xWnks",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
