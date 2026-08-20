@@ -1,0 +1,18 @@
+{
+    "id": 82148336,
+    "name": "BROWNOIX",
+    "author": "ArtaxFerSarh",
+    "creators": ["IvashkaUA OuroiX Fufafac ArtaxFerSarh StarkytheSalad nectaroso DoliaX"],
+    "verifier": "Hotdoggs",
+    "verification": "https://www.youtube.com/watch?v=pLRzss3wAi8",
+    "percentToQualify": 100,
+    "password": "Copy",
+    "records": [
+       {
+            "user": "Trenity",
+            "link": "https://www.youtube.com/watch?v=4k7oOMOYbt0",
+            "percent": 100,
+            "hz": 480
+        }
+    ]
+}
