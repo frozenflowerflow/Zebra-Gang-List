@@ -1,0 +1,24 @@
+{
+    "id": 20761188,
+    "name": "Allegiance",
+    "author": "nikroplays",
+    "creators": ["nikroplays"],
+    "verifier": "mesling",
+    "verification": "https://youtu.be/f0Ua8o9bnVs",
+    "percentToQualify": "100",
+    "password": "Copy",
+    "records": [
+                {
+            "user": "Hotdoggs",
+            "link": "https://www.youtube.com/watch?v=QmfE4wiHZvg",
+            "percent": 100,
+            "hz": 240
+                },
+                       {
+            "user": "Legopiece",
+            "link": "https://www.youtube.com/watch?v=Ize8hQ9dOZE",
+            "percent": 100,
+            "hz": 720
+                }
+    ]
+}
