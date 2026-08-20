@@ -3,10 +3,16 @@
     "name": "Audio Extraction",
     "author": "GoodSmile",
     "creators": ["GoodSmile AbstractDark P14 T17 Star77 Cryomancer Logik CubeCreator Bio21 Agent"],
-    "verifier": "Hotdoggs",
-    "verification": "https://www.youtube.com/watch?v=3aaWyoXI-gs",
-    "percentToQualify": 100,
+    "verifier": "Fatcow",
+    "verification": "https://youtu.be/qsMIqwiMzYo?si=_2aEtSTWu7DjOUbI",
+    "percentToQualify": "100",
     "password": "Copy",
     "records": [
+       {
+            "user": "Hotdoggs",
+            "link": "https://youtu.be/3aaWyoXI-gs?si=w1rYmCCQ0k4cCrqJ",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
