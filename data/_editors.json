@@ -1,27 +1,27 @@
 [
     {
         "role": "owner",
-        "name": "List Owner",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "Hotdoggs",
+        "link": "https://www.youtube.com/@Hotdoggs"
     },
     {
         "role": "admin",
-        "name": "List Admin",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "Viggd",
+        "link": "https://www.youtube.com/@VigGD"
     },
     {
         "role": "helper",
-        "name": "List Helper",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "Zcythos",
+        "link": "https://www.youtube.com/@Zcythoss"
     },
     {
         "role": "trial",
-        "name": "Trial List Helper",
+        "name": "Legopiece",
         "link": "https://www.youtube.com/@Prometheus_Alt"
     },
     {
         "role": "dev",
-        "name": "List Coder",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "Zebra Gang",
+        "link": "https://www.youtube.com/@ZebraGangGD"
     }
 ]
