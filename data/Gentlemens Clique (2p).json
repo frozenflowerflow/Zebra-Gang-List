@@ -1,0 +1,30 @@
+{
+    "id": 85231431,
+    "name": "Gentlemens Clique (2p)",
+    "author": "Alph",
+    "creators": ["DnuoZ NathanYAY Alph"],
+    "verifier": "Trenity",
+    "verification": "https://www.youtube.com/watch?v=iB30kO-oD-U",
+    "percentToQualify": "100",
+    "password": "Copy",
+    "records": [
+                {
+            "user": "Viggd",
+            "link": "https://www.youtube.com/watch?v=ropd3qc1Xr8",
+            "percent": 100,
+            "hz": 173
+                },
+                       {
+            "user": "Legopiece",
+            "link": "https://www.youtube.com/watch?v=QQOCQ6OEq_s",
+            "percent": 100,
+            "hz": 825
+                },
+                       {
+            "user": "Hotdoggs",
+            "link": "https://www.youtube.com/watch?v=gaZQYl1U9s8",
+            "percent": 100,
+            "hz": 240
+                }
+    ]
+}
