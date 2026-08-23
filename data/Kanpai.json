@@ -1,0 +1,18 @@
+{
+    "id": 118613010,
+    "name": "Kanpai",
+    "author": "Kz04",
+    "creators": ["Kz04"],
+    "verifier": "Diroti",
+    "verification": "https://www.youtube.com/watch?v=l8Djm1KF1kU",
+    "percentToQualify": 100,
+    "password": "Copy",
+    "records": [
+       {
+            "user": "Trenity",
+            "link": "https://www.youtube.com/watch?v=xhLA8syfbH8",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
