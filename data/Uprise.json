@@ -1,0 +1,18 @@
+{
+    "id": 14977845,
+    "name": "Uprise",
+    "author": "Blad3M",
+    "creators": ["Blad3M Menkatjezzz"],
+    "verifier": "Hotdoggs",
+    "verification": "https://www.youtube.com/watch?v=6rJE1WsKems",
+    "percentToQualify": 100,
+    "password": "Copy",
+    "records": [
+       {
+            "user": "Legopiece",
+            "link": "https://www.youtube.com/watch?v=cFcH47940Bo",
+            "percent": 100,
+            "hz": 660
+        }
+    ]
+}
