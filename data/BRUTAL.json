@@ -1,0 +1,24 @@
+{
+    "id": 138356396,
+    "name": "BRUTAL",
+    "author": "Tshack",
+    "creators": ["Tshack airless"],
+    "verifier": "Hotdoggs",
+    "verification": "https://www.youtube.com/watch?v=Z7ZDEHT8K4s",
+    "percentToQualify": "100",
+    "password": "Copy",
+    "records": [
+                {
+            "user": "Legopiece",
+            "link": "https://www.youtube.com/watch?v=UqlKiVU-F3s",
+            "percent": 100,
+            "hz": 825
+                },
+                       {
+            "user": "Diroti",
+            "link": "https://www.youtube.com/watch?v=KwO65cqCySs",
+            "percent": 100,
+            "hz": 240
+                }
+    ]
+}
