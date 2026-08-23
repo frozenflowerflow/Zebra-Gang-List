@@ -1,0 +1,30 @@
+{
+    "id": 2374518,
+    "name": "Red World",
+    "author": "saRy",
+    "creators": ["saRy NePtunE"],
+    "verifier": "Shinxer",
+    "verification": "https://www.youtube.com/watch?v=hL24xcJPnyY",
+    "percentToQualify": "100",
+    "password": "Copy",
+    "records": [
+                {
+            "user": "Viggd",
+            "link": "https://www.youtube.com/watch?v=kPIOWD6lxAQ&t",
+            "percent": 100,
+            "hz": 60
+                },
+                       {
+            "user": "Hotdoggs",
+            "link": "https://www.youtube.com/watch?v=dU37TEN7zJs",
+            "percent": 100,
+            "hz": 240
+                },
+                       {
+            "user": "FatCow",
+            "link": "https://www.youtube.com/watch?v=vpgADGiCvUQ",
+            "percent": 100,
+            "hz": 60
+                }
+    ]
+}
