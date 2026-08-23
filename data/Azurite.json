@@ -1,0 +1,24 @@
+{
+    "id": 62214792,
+    "name": "Azurite",
+    "author": "Sillow",
+    "creators": ["Sillow"],
+    "verifier": "Hotdoggs",
+    "verification": "https://www.youtube.com/watch?v=jAqcBYPakkY",
+    "percentToQualify": "100",
+    "password": "Copy",
+    "records": [
+                {
+            "user": "Legopiece",
+            "link": "https://www.youtube.com/watch?v=UzDZ1k_Q7b4",
+            "percent": 100,
+            "hz": 825
+                },
+                       {
+            "user": "Diroti",
+            "link": "https://www.youtube.com/watch?v=SDObNYlm3Bg",
+            "percent": 100,
+            "hz": 240
+                }
+    ]
+}
