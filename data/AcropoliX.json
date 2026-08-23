@@ -1,0 +1,18 @@
+{
+    "id": 19300593,
+    "name": "AcropoliX",
+    "author": "SoulsTRK",
+    "creators": ["SoulsTRK"],
+    "verifier": "Hotdoggs",
+    "verification": "https://www.youtube.com/watch?v=mN3jJsrL0QA",
+    "percentToQualify": 100,
+    "password": "Copy",
+    "records": [
+       {
+            "user": "Legopiece",
+            "link": "https://www.youtube.com/watch?v=JOVvljd_ACA",
+            "percent": 100,
+            "hz": 825
+        }
+    ]
+}
