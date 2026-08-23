@@ -1,0 +1,18 @@
+{
+    "id": 129550139,
+    "name": "CONVOLVER",
+    "author": "GoldSource",
+    "creators": ["GoldSource"],
+    "verifier": "Legopiece",
+    "verification": "https://www.youtube.com/watch?v=iqYw13CoVQE",
+    "percentToQualify": 100,
+    "password": "Copy",
+    "records": [
+       {
+            "user": "Hotdoggs",
+            "link": "https://www.youtube.com/watch?v=940rJdMKBOs",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
