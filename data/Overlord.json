@@ -1,0 +1,18 @@
+{
+    "id": 50026818,
+    "name": "Overlord",
+    "author": "Kohtpojiep",
+    "creators": ["Kohtpojiep Vampur"],
+    "verifier": "Diroti",
+    "verification": "https://www.youtube.com/watch?v=QdFrrStTXwc",
+    "percentToQualify": 100,
+    "password": "Copy",
+    "records": [
+       {
+            "user": "Legopiece",
+            "link": "https://www.youtube.com/watch?v=otWeKkkKR0w",
+            "percent": 100,
+            "hz": 825
+        }
+    ]
+}
