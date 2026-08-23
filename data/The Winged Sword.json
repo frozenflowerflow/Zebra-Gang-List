@@ -1,0 +1,18 @@
+{
+    "id": 94748298,
+    "name": "The Winged Sword",
+    "author": "Will1",
+    "creators": ["Will1"],
+    "verifier": "Viggd",
+    "verification": "https://www.youtube.com/watch?v=bCjj9beHP_I",
+    "percentToQualify": "100",
+    "password": "Copy",
+    "records": [
+       {
+            "user": "Hotdoggs",
+            "link": "https://www.youtube.com/watch?v=vwyGt9WxZAY",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
