@@ -1,0 +1,24 @@
+{
+    "id": 109730342,
+    "name": "the super hotdog",
+    "author": "AWESOMEME360",
+    "creators": ["AWESOMEME360"],
+    "verifier": "Legopiece",
+    "verification": "https://www.youtube.com/watch?v=UzDZ1k_Q7b4",
+    "percentToQualify": "100",
+    "password": "Copy",
+    "records": [
+                {
+            "user": "Trenity",
+            "link": "https://www.youtube.com/watch?v=CUuWVKbK5gw",
+            "percent": 100,
+            "hz": 480
+                },
+                       {
+            "user": "Viggd",
+            "link": "https://www.youtube.com/watch?v=Yr3uG9WJQ3w",
+            "percent": 100,
+            "hz": 60
+                }
+    ]
+}
