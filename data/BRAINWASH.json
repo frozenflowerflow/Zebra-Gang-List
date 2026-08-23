@@ -1,0 +1,30 @@
+{
+    "id": 114264278,
+    "name": "BRAINWASH",
+    "author": "plxzTM",
+    "creators": ["ConnectedGD lys5 Elegy Realvet River AlrexX Parallax Andhika Tuna310 plxzTM"],
+    "verifier": "Viggd",
+    "verification": "https://youtu.be/f0Ua8o9bnVs",
+    "percentToQualify": "100",
+    "password": "Copy",
+    "records": [
+                {
+            "user": "Trenity",
+            "link": "https://www.youtube.com/watch?v=YqyScEC1OK8",
+            "percent": 100,
+            "hz": 480
+                },
+                       {
+            "user": "Legopiece",
+            "link": "https://www.youtube.com/watch?v=3qJ24R_lBYM&list=PL_eXXKHDaBIiQEm7ZAjAffJ16C31KbBGQ&index=13",
+            "percent": 100,
+            "hz": 825
+                },
+                       {
+            "user": "shinxer",
+            "link": "https://medal.tv/games/geometry-dash/clips/n4FifWEZW2AXl2gig?invite=cr-MSxaVG0sNjczMDIwMzQ0",
+            "percent": 100,
+            "hz": 240
+                }
+    ]
+}
