@@ -1,0 +1,18 @@
+{
+    "id": 93726172,
+    "name": "Shimmering Chamber",
+    "author": "Devilmine",
+    "creators": ["Devilmine"],
+    "verifier": "Hotdoggs",
+    "verification": "https://www.youtube.com/watch?v=Jeeh_2Jp9J4",
+    "percentToQualify": 100,
+    "password": "Copy",
+    "records": [
+       {
+            "user": "Legopiece",
+            "link": "https://www.youtube.com/watch?v=lFCInsnt5_o",
+            "percent": 100,
+            "hz": 825
+        }
+    ]
+}
