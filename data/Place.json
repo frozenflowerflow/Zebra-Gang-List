@@ -1,0 +1,36 @@
+{
+    "id": 10565740,
+    "name": "Place",
+    "author": "Spu7nix",
+    "creators": ["14.000 people"],
+    "verifier": "Viggd",
+    "verification": "https://www.youtube.com/watch?v=qUsO3TPO4O4",
+    "percentToQualify": "100",
+    "password": "Copy",
+    "records": [
+                {
+            "user": "Legopiece",
+            "link": "https://www.youtube.com/watch?v=1a-9B9Cutf8",
+            "percent": 100,
+            "hz": 825
+                },
+                       {
+            "user": "Shinxer",
+            "link": "https://medal.tv/games/geometry-dash/clips/muvl6LBCvrlP2PGvF",
+            "percent": 100,
+            "hz": 240
+                },
+                       {
+            "user": "Trenity",
+            "link": "https://www.youtube.com/watch?v=JlV9sb-t54M",
+            "percent": 100,
+            "hz": 240
+                },
+                       {
+            "user": "Diroti",
+            "link": "https://www.youtube.com/watch?v=ZO3rx2CnP54",
+            "percent": 100,
+            "hz": 240
+                }
+    ]
+}
