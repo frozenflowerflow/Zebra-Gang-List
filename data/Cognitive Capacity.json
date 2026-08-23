@@ -1,0 +1,18 @@
+{
+    "id": 121538082,
+    "name": "Cognitive Capacity",
+    "author": "Griffin128",
+    "creators": ["Griffin128"],
+    "verifier": "Hotdoggs",
+    "verification": "https://www.youtube.com/watch?v=3mbMjep-t8E",
+    "percentToQualify": 100,
+    "password": "Copy",
+    "records": [
+       {
+            "user": "Legopiece",
+            "link": "https://www.youtube.com/watch?v=-oO8MFWYEkw",
+            "percent": 100,
+            "hz": 825
+        }
+    ]
+}
