@@ -1,0 +1,54 @@
+{
+    "id": 61079355,
+    "name": "Acu",
+    "author": "Neigefeu",
+    "creators": ["Neigefeu"],
+    "verifier": "Simse",
+    "verification": "https://www.youtube.com/watch?v=ObAFjstGo6Q",
+    "percentToQualify": "100",
+    "password": "Copy",
+    "records": [
+                {
+            "user": "Shinxer",
+            "link": "https://medal.tv/games/geometry-dash/clips/ipxQWKaBBDkqYxD2T",
+            "percent": 100,
+            "hz": 240
+                },
+                       {
+            "user": "Hotdoggs",
+            "link": "https://www.youtube.com/watch?v=d5g08ky-8Uo",
+            "percent": 100,
+            "hz": 240
+                },
+                       {
+            "user": "Trenity",
+            "link": "https://www.youtube.com/watch?v=z6l74Mkoxm8",
+            "percent": 100,
+            "hz": 480
+                },
+                       {
+            "user": "Legopiece",
+            "link": "https://www.youtube.com/watch?v=rjEf67jTjd4",
+            "percent": 100,
+            "hz": 360
+                },
+                       {
+            "user": "Viggd",
+            "link": "https://www.youtube.com/watch?v=xcDcaSXPgYs",
+            "percent": 100,
+            "hz": 60
+                },
+                       {
+            "user": "mesling",
+            "link": "https://www.tiktok.com/@mesling_/video/7573812187358072086",
+            "percent": 100,
+            "hz": 144
+                },
+                       {
+            "user": "Diroti",
+            "link": "https://www.youtube.com/watch?v=1NH6R0HGIZ4",
+            "percent": 100,
+            "hz": 240
+                }
+    ]
+}
