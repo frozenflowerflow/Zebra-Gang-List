@@ -18,6 +18,12 @@
             "user": "Hotdoggs",
             "link": "https://youtu.be/p7d5BE3OMOU",
             "percent": 100,
+            "hz": 360
+                },
+                       {
+            "user": "Simse",
+            "link": "https://www.youtube.com/watch?v=VUn5NfcZ3F4",
+            "percent": 100,
             "hz": 240
                 }
     ]
