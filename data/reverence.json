@@ -3,10 +3,16 @@
     "name": "reverence",
     "author": "Woom",
     "creators": ["Cybertron Eots Toastedlord Expy Enzore MrClyde BySelling Lipz Elegy BlasterRobotz victorinoxX Woom ViralDL Hyperblastz Naimnaro"],
-    "verifier": "Trenity",
-    "verification": "https://www.youtube.com/watch?v=OaR01tVxPRI",
+    "verifier": "Hotdoggs",
+    "verification": "https://www.youtube.com/watch?v=qZxPyA-QUpM",
     "percentToQualify": "100",
     "password": "Copy",
     "records": [
+       {
+            "user": "Trenity",
+            "link": "https://www.youtube.com/watch?v=OaR01tVxPRI",
+            "percent": 100,
+            "hz": 480
+        }
     ]
 }
