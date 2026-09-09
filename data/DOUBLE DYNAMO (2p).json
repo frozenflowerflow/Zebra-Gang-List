@@ -1,0 +1,18 @@
+{
+    "id": 144845980,
+    "name": "DOUBLE DYNAMO (2p)",
+    "author": "spark",
+    "creators": ["spark"],
+    "verifier": "Trenity",
+    "verification": "https://www.youtube.com/watch?v=3ihJGRAfrGU",
+    "percentToQualify": "100",
+    "password": "Copy",
+    "records": [
+       {
+            "user": "Viggd",
+            "link": "https://www.youtube.com/watch?v=Xlcg8vRPIRc",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
