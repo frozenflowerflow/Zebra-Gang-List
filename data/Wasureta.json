@@ -3,16 +3,22 @@
     "name": "Wasureta",
     "author": "Helpegasus",
     "creators": ["XLSpiral Helpegasus Deadlox augi Isane BelonziK El3ctr0 LimeTime313 - Splash"],
-    "verifier": "Legopiece",
-    "verification": "https://youtu.be/Q62yE-sljhQ",
+    "verifier": "Qillaq",
+    "verification": "https://www.youtube.com/watch?v=iQa8NQr8Y6Y",
     "percentToQualify": "100",
     "password": "Copy",
     "records": [
        {
+            "user": "Legopiece",
+            "link": "https://youtu.be/Q62yE-sljhQ",
+            "percent": 100,
+            "hz": 825
+                },
+                       {
             "user": "Trenity",
             "link": "https://www.youtube.com/watch?v=KQakDQAn6QM",
             "percent": 100,
-            "hz": 480
-        }
+            "hz": 240
+                }
     ]
 }
