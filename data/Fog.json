@@ -2,11 +2,23 @@
     "id": 90853661,
     "name": "Fog",
     "author": "notes",
-    "creators": ["notes pixll1"],
-    "verifier": "Legopiece",
-    "verification": "https://youtu.be/QMZokqUdh4o",
+    "creators": ["notes Guitarherostyles pixll1"],
+    "verifier": "Qillaq",
+    "verification": "https://www.youtube.com/watch?v=ELigrRv4V0A",
     "percentToQualify": "100",
     "password": "Copy",
     "records": [
+                {
+            "user": "Legopiece",
+            "link": "https://youtu.be/QMZokqUdh4o",
+            "percent": 825,
+            "hz": 240
+                },
+                       {
+            "user": "Hotdoggs",
+            "link": "https://www.youtube.com/watch?v=sjNhM-RcikM",
+            "percent": 100,
+            "hz": 240
+                }
     ]
 }
