@@ -3,16 +3,22 @@
     "name": "Ouroboros Startpos 2",
     "author": "Indonesia",
     "creators": ["Indonesia"],
-    "verifier": "Legopiece",
-    "verification": "https://www.youtube.com/watch?v=15fu2SLXguY",
+    "verifier": "Qillaq",
+    "verification": "https://www.youtube.com/watch?v=W74eHSEBZaI",
     "percentToQualify": "100",
     "password": "Copy",
     "records": [
        {
+            "user": "Legopiece",
+            "link": "https://www.youtube.com/watch?v=15fu2SLXguY",
+            "percent": 100,
+            "hz": 825
+                },
+                       {
             "user": "Trenity",
             "link": "https://www.youtube.com/watch?v=1r_ruPEG1sw&lc=Ugz-zKGhWaiJpQ9DuYd4AaABAg.Aa0xZtCkC5MAa2llZrS5AP",
             "percent": 100,
             "hz": 480
-        }
+                }
     ]
 }
