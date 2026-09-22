@@ -39,6 +39,12 @@
             "hz": 240
                 },
                        {
+            "user": "Qillaq",
+            "link": "https://www.youtube.com/watch?v=ZKacwVQGkTg",
+            "percent": 100,
+            "hz": 480
+                },
+                       {
             "user": "FatCow",
             "link": "https://www.youtube.com/watch?v=5XZLdrE_YYM",
             "percent": 100,
@@ -52,4 +58,3 @@
                 }
     ]
 }
-
