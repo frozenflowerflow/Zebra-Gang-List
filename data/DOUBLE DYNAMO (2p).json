@@ -13,6 +13,12 @@
             "link": "https://www.youtube.com/watch?v=Xlcg8vRPIRc",
             "percent": 100,
             "hz": 60
-        }
+                },
+                       {
+            "user": "Qillaq",
+            "link": "https://www.youtube.com/watch?v=CMaoFrC29nI",
+            "percent": 100,
+            "hz": 480
+                }
     ]
 }
