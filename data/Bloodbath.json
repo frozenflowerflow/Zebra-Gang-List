@@ -37,6 +37,12 @@
             "link": "https://www.youtube.com/watch?v=l0p1i3VlOAk",
             "percent": 100,
             "hz": 480
+                },
+                       {
+            "user": "FatCow",
+            "link": "https://www.youtube.com/watch?v=twTw4fjT0ik",
+            "percent": 100,
+            "hz": 240
                 }
     ]
 }
