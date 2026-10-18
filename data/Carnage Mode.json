@@ -13,6 +13,12 @@
             "link": "https://www.youtube.com/watch?v=FugzsIXbfS0",
             "percent": 100,
             "hz": 240
-        }
+                },
+                       {
+            "user": "Diroti",
+            "link": "https://www.youtube.com/watch?v=Euhjkcuk5Rw",
+            "percent": 100,
+            "hz": 240
+                }
     ]
 }
