@@ -5,10 +5,10 @@
     "description": "All of The Frame Trilogy besides 1 Frame 2 Frame",
     "pointsReward": 45,
     "levels": [
-      { "id": "lvl-1", "title": "3 Frame 4 Frame" },
-      { "id": "lvl-2", "title": "5 Frame 6 Frame" },
-      { "id": "lvl-3", "title": "7 Frame 8 Frame" },
-      { "id": "lvl-4", "title": "9 Frame 10 Frame" }
+      { "id": "lvl-1", "title": "Gaggatrondra" },
+      { "id": "lvl-2", "title": "shimmer" },
+      { "id": "lvl-3", "title": "Zodiac" },
+      { "id": "lvl-4", "title": "Falcon16" }
     ]
   },
   {
@@ -17,9 +17,9 @@
     "description": "The Riot Pack But Challenge Versions",
     "pointsReward": 100,
     "levels": [
-      { "id": "lvl-1", "title": "Tartarus Challenge" },
-      { "id": "lvl-2", "title": "Acheron Challenge" },
-      { "id": "lvl-3", "title": "Aeternus Challenge" }
+      { "id": "lvl-1", "title": "Bloodbath" },
+      { "id": "lvl-2", "title": "Cataclysm" },
+      { "id": "lvl-3", "title": "aftermath" }
     ]
   }
 ]
