@@ -204,7 +204,7 @@
     "id": "memory-pack-i",
     "title": "Memory Pack I",
     "description": "Memory Pack 1",
-    "pointsReward": 60,
+    "pointsReward": 15,
     "levels": [
       { "id": "lvl-1", "title": "Twilight Spire" },
       { "id": "lvl-2", "title": "Hollow" },
@@ -217,7 +217,7 @@
     "id": "memory-pack-ii",
     "title": "Memory Pack II",
     "description": "Memory Pack 2",
-    "pointsReward": 60,
+    "pointsReward": 20,
     "levels": [
       { "id": "lvl-1", "title": "loop" },
       { "id": "lvl-2", "title": "PAINFUL PLAYLAND" },
@@ -230,7 +230,7 @@
     "id": "memory-pack-iii",
     "title": "Memory Pack III",
     "description": "Memory Pack 3",
-    "pointsReward": 150,
+    "pointsReward": 70,
     "levels": [
       { "id": "lvl-1", "title": "Killbot" },
       { "id": "lvl-2", "title": "Betrayal of Fate" },
