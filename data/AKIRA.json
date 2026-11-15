@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "Copy",
     "records": [
+           {
+            "user": "Trenity",
+            "link": "https://youtu.be/y2fv1b3OydU",
+            "percent": 100,
+            "hz": 480
+        }
     ]
 }
