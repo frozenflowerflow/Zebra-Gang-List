@@ -14,11 +14,33 @@
     "id": "circles-pack-i",
     "title": "Circles Pack I",
     "description": "Easiest Circles Extremes",
-    "pointsReward": 100,
+    "pointsReward": 30,
     "levels": [
       { "id": "lvl-1", "title": "No Survivors" },
       { "id": "lvl-2", "title": "Bangarang" },
       { "id": "lvl-3", "title": "Project Alter" }
+            ]
+  },
+  {
+    "id": "circles-pack-ii",
+    "title": "Circles Pack II",
+    "description": "Medium Like Circles Extremes",
+    "pointsReward": 100,
+    "levels": [
+      { "id": "lvl-1", "title": "Cat Planet" },
+      { "id": "lvl-2", "title": "Down Bass" },
+      { "id": "lvl-3", "title": "Tenth Circle" }
+                    ]
+  },
+  {
+    "id": "circles-pack-iii",
+    "title": "Circles Pack III",
+    "description": "Harder Circles Extremes",
+    "pointsReward": 150,
+    "levels": [
+      { "id": "lvl-1", "title": "Infinite Inversion" },
+      { "id": "lvl-2", "title": "Mujigae" },
+      { "id": "lvl-3", "title": "Hyper Paradox" }
     ]
   }
 ]
