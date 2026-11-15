@@ -1,25 +1,24 @@
 [
   {
-    "id": "frame-trilogy",
-    "title": "Frame Pack",
-    "description": "All of The Frame Trilogy besides 1 Frame 2 Frame",
-    "pointsReward": 45,
-    "levels": [
-      { "id": "lvl-1", "title": "Gaggatrondra" },
-      { "id": "lvl-2", "title": "shimmer" },
-      { "id": "lvl-3", "title": "Zodiac" },
-      { "id": "lvl-4", "title": "Falcon16" }
-    ]
-  },
-  {
-    "id": "riot-pack",
-    "title": "Riot Pack",
-    "description": "The Riot Pack But Challenge Versions",
-    "pointsReward": 100,
+    "id": "apocalyptic-trilogy",
+    "title": "Apocalyptic Trilogy",
+    "description": "Yes",
+    "pointsReward": 50,
     "levels": [
       { "id": "lvl-1", "title": "Bloodbath" },
       { "id": "lvl-2", "title": "Cataclysm" },
       { "id": "lvl-3", "title": "aftermath" }
+    ]
+  },
+  {
+    "id": "circles-pack-i",
+    "title": "Circles Pack I",
+    "description": "Easiest Circles Extremes",
+    "pointsReward": 100,
+    "levels": [
+      { "id": "lvl-1", "title": "No Survivors" },
+      { "id": "lvl-2", "title": "Bangarang" },
+      { "id": "lvl-3", "title": "Project Alter" }
     ]
   }
 ]
