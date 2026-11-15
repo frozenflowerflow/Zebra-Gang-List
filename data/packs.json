@@ -240,8 +240,8 @@
                                           ] 
   },
   {
-    "id": "Toasobi Pack",
-    "title": "Toasobi Pack",
+    "id": "Yoasobi Pack",
+    "title": "Yoasobi Pack",
     "description": "Im so kawaii",
     "pointsReward": 50,
     "levels": [
@@ -253,8 +253,8 @@
                                           ] 
   },
   {
-    "id": "Oscars Favs",
-    "title": "Oscars Favs",
+    "id": "Oscars Favorites",
+    "title": "Oscars Favorites",
     "description": "Cool guy y'know",
     "pointsReward": 40,
     "levels": [
