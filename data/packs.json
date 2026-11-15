@@ -41,6 +41,17 @@
       { "id": "lvl-1", "title": "Infinite Inversion" },
       { "id": "lvl-2", "title": "Mujigae" },
       { "id": "lvl-3", "title": "Hyper Paradox" }
+        ]
+  },
+  {
+    "id": "circles-pack-iv",
+    "title": "Circles Pack IV",
+    "description": "Some even HARDER extremes",
+    "pointsReward": 170,
+    "levels": [
+      { "id": "lvl-1", "title": "Bausha Vortex" },
+      { "id": "lvl-2", "title": "Sonic Wave" },
+      { "id": "lvl-3", "title": "Hyper Paracosm" }
     ]
   }
 ]
