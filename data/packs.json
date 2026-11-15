@@ -198,6 +198,45 @@
       { "id": "lvl-3", "title": "Wasureta" },
       { "id": "lvl-4", "title": "Thunderzone" },    
       { "id": "lvl-5", "title": "Omicron" }
+                        ]
+  },
+  {
+    "id": "memory-pack-i",
+    "title": "Memory Pack I",
+    "description": "Memory Pack 1",
+    "pointsReward": 60,
+    "levels": [
+      { "id": "lvl-1", "title": "Twilight Spire" },
+      { "id": "lvl-2", "title": "Hollow" },
+      { "id": "lvl-3", "title": "Lost Love" },
+      { "id": "lvl-4", "title": "BRAINWASH" },
+      { "id": "lvl-5", "title": "troll level" }
+                                      ]
+  },
+  {
+    "id": "memory-pack-ii",
+    "title": "Memory Pack II",
+    "description": "Memory Pack 2",
+    "pointsReward": 60,
+    "levels": [
+      { "id": "lvl-1", "title": "loop" },
+      { "id": "lvl-2", "title": "PAINFUL PLAYLAND" },
+      { "id": "lvl-3", "title": "EXTREME MEMORY MIX" },
+      { "id": "lvl-4", "title": "Miscellaneous Memory" },
+      { "id": "lvl-5", "title": "Vertigo" }
+                                      ]
+  },
+  {
+    "id": "memory-pack-iii",
+    "title": "Memory Pack III",
+    "description": "Memory Pack 3",
+    "pointsReward": 150,
+    "levels": [
+      { "id": "lvl-1", "title": "Killbot" },
+      { "id": "lvl-2", "title": "Betrayal of Fate" },
+      { "id": "lvl-3", "title": "MOTOR MOGOK" },
+      { "id": "lvl-4", "title": "Triple Six" },    
+      { "id": "lvl-5", "title": "me when machine gang (2p)" }
     ]
   }
 ]
