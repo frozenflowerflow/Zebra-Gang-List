@@ -278,7 +278,7 @@
     "id": "Shinxers Favorites",
     "title": "Shinxers Favorites",
     "description": "Silent pack ",
-    "pointsReward": 80,
+    "pointsReward":70,
     "levels": [
       { "id": "lvl-1", "title": "Citra" },
       { "id": "lvl-2", "title": "Misfire" },
