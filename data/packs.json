@@ -253,8 +253,8 @@
       { "id": "lvl-4", "title": "Misureta" },    
       { "id": "lvl-5", "title": "Kanpai" }
     ]
-  },
-                        ]
+  }
+                                        ]
   },
   {
     "id": "Oscars Favs",
@@ -265,5 +265,5 @@
       { "id": "lvl-1", "title": "Niwa" },
       { "id": "lvl-2", "title": "DMG CTRL" },
       { "id": "lvl-3", "title": "Cat Planet" }
-                                      ]
+                                        ]
 ]
