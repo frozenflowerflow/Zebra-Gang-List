@@ -109,6 +109,95 @@
       { "id": "lvl-3", "title": "Tung Tung Sahurcles" },
       { "id": "lvl-4", "title": "Place" },    
       { "id": "lvl-5", "title": "Gangnam Style" }
+                   ]
+  },
+  {
+    "id": "jokes-pack-ii",
+    "title": "Jokes Pack II",
+    "description": "Zebra Gang Joke Pack II",
+    "pointsReward": 70,
+    "levels": [
+      { "id": "lvl-1", "title": "Tenth Circle" },
+      { "id": "lvl-2", "title": "Game Over" },
+      { "id": "lvl-3", "title": "Conical Depression" },
+      { "id": "lvl-4", "title": "Sigma Interface" },    
+      { "id": "lvl-5", "title": "Plasma Pulse III" }
+                           ]
+  },
+  {
+    "id": "jokes-pack-iii",
+    "title": "Jokes Pack III",
+    "description": "Zebra Gang Joke Pack III",
+    "pointsReward": 105,
+    "levels": [
+      { "id": "lvl-1", "title": "Killbot" },
+      { "id": "lvl-2", "title": "MISFIRE" },
+      { "id": "lvl-3", "title": "Dolos" },
+      { "id": "lvl-4", "title": "hot rod" },    
+      { "id": "lvl-5", "title": "Asmodeus" }
+                      ]
+  },
+  {
+    "id": "ass-pack-i",
+    "title": "Ass Pack I",
+    "description": "The Easier bunch of every zebra member",
+    "pointsReward": 10,
+    "levels": [
+      { "id": "lvl-1", "title": "Anoxysm" },
+      { "id": "lvl-2", "title": "ampere" },
+      { "id": "lvl-3", "title": "JeonGi" },
+      { "id": "lvl-4", "title": "Allegiance" },    
+      { "id": "lvl-5", "title": "Red World" }
+                              ]
+  },
+  {
+    "id": "ass-pack-ii",
+    "title": "Ass Pack II",
+    "description": "The Harder bunch of every zebra member",
+    "pointsReward": 130,
+    "levels": [
+      { "id": "lvl-1", "title": "Arctic Lights" },
+      { "id": "lvl-2", "title": "Sink" },
+      { "id": "lvl-3", "title": "Kuzureta" },
+      { "id": "lvl-4", "title": "Xronier" },    
+      { "id": "lvl-5", "title": "The Hell Zone" }
+                        ]
+  },
+  {
+    "id": "rgb",
+    "title": "RGB",
+    "description": "Yay",
+    "pointsReward": 60,
+    "levels": [
+      { "id": "lvl-1", "title": "Sonic Wave" },
+      { "id": "lvl-2", "title": "Yatagarasu" },
+      { "id": "lvl-3", "title": "Erebus" }
+                                      ]
+  },
+  {
+    "id": "zebras-favourites-i",
+    "title": "Zebras Favourites I",
+    "description": "Zebras Favourite extreme demons",
+    "pointsReward": 70,
+    "levels": [
+      { "id": "lvl-1", "title": "Budding Roses" },
+      { "id": "lvl-2", "title": "MISFIRE" },
+      { "id": "lvl-3", "title": "Eon" },
+      { "id": "lvl-4", "title": "Aksion" },    
+      { "id": "lvl-5", "title": "niwa" }
+                          ]
+  },
+  {
+    "id": "zebras-favourites-i",
+    "title": "Zebras Favourites I",
+    "description": "Zebras Favourite extreme demons",
+    "pointsReward": 150,
+    "levels": [
+      { "id": "lvl-1", "title": "NYUTOPIA" },
+      { "id": "lvl-2", "title": "Spectrum Cyclone" },
+      { "id": "lvl-3", "title": "Wasureta" },
+      { "id": "lvl-4", "title": "Thunderzone" },    
+      { "id": "lvl-5", "title": "Omicron" }
     ]
   }
 ]
