@@ -258,7 +258,7 @@
     "description": "Cool guy y'know",
     "pointsReward": 40,
     "levels": [
-      { "id": "lvl-1", "title": "Niwa" },
+      { "id": "lvl-1", "title": "niwa" },
       { "id": "lvl-2", "title": "DMG CTRL" },
       { "id": "lvl-3", "title": "Cat Planet" }
                                           ] 
@@ -280,9 +280,9 @@
     "description": "Silent pack ",
     "pointsReward":70,
     "levels": [
-      { "id": "lvl-1", "title": "Citra" },
-      { "id": "lvl-2", "title": "Misfire" },
-      { "id": "lvl-3", "title": "Motor Mogok" }
+      { "id": "lvl-1", "title": "CITRA" },
+      { "id": "lvl-2", "title": "MISFIRE" },
+      { "id": "lvl-3", "title": "MOTOR MOGOK" }
     ]
   }
 ]
