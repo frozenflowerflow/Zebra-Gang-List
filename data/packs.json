@@ -283,6 +283,17 @@
       { "id": "lvl-1", "title": "CITRA" },
       { "id": "lvl-2", "title": "MISFIRE" },
       { "id": "lvl-3", "title": "MOTOR MOGOK" }
+                                    ]
+  },
+  {
+    "id": "Hotdoggs Favourites",
+    "title": "Hotdoggs Favourites",
+    "description": "Very Amazing Pack",
+    "pointsReward":100,
+    "levels": [
+      { "id": "lvl-1", "title": "Spectrum Cyclone" },
+      { "id": "lvl-2", "title": "BROWNOIX" },
+      { "id": "lvl-3", "title": "BROOKLYNBLOODPOP" }
     ]
   }
 ]
