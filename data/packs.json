@@ -267,7 +267,7 @@
     "id": "Dirotis Favorites",
     "title": "Dirotis Favorites",
     "description": "Non-human",
-    "pointsReward": 50,
+    "pointsReward": 70,
     "levels": [
       { "id": "lvl-1", "title": "Omicron" },
       { "id": "lvl-2", "title": "Idols" },
