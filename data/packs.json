@@ -272,6 +272,17 @@
       { "id": "lvl-1", "title": "Omicron" },
       { "id": "lvl-2", "title": "Idols" },
       { "id": "lvl-3", "title": "Sunset Sandstorm" }
+                                        ]
+  },
+  {
+    "id": "Shinxers Favorites",
+    "title": "Shinxers Favorites",
+    "description": "Silent pack ",
+    "pointsReward": 40,
+    "levels": [
+      { "id": "lvl-1", "title": "Citra" },
+      { "id": "lvl-2", "title": "Misfire" },
+      { "id": "lvl-3", "title": "Motor Mogok" }
     ]
   }
 ]
