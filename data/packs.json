@@ -106,8 +106,8 @@
     "levels": [
       { "id": "lvl-1", "title": "Annihilation Nation" },
       { "id": "lvl-2", "title": "Glide" },
-      { "id": "lvl-3", "title": "Tung Tung Sahurcles" }
-      { "id": "lvl-4", "title": "Place" }    
+      { "id": "lvl-3", "title": "Tung Tung Sahurcles" },
+      { "id": "lvl-4", "title": "Place" },    
       { "id": "lvl-5", "title": "Gangnam Style" }
     ]
   }
