@@ -240,7 +240,7 @@
                                           ] 
   },
   {
-    "id": "Yoasobi Pack",
+    "id": "yoasobi-pack",
     "title": "Yoasobi Pack",
     "description": "Im so kawaii",
     "pointsReward": 50,
@@ -253,7 +253,7 @@
                                           ] 
   },
   {
-    "id": "Oscars Favorites",
+    "id": "oscars-favorites",
     "title": "Oscars Favorites",
     "description": "Cool guy y'know",
     "pointsReward": 40,
@@ -264,7 +264,7 @@
                                           ] 
   },
   {
-    "id": "Dirotis Favorites",
+    "id": "dirotis-favorites",
     "title": "Dirotis Favorites",
     "description": "Non-human",
     "pointsReward": 70,
@@ -275,7 +275,7 @@
                                         ]
   },
   {
-    "id": "Shinxers Favorites",
+    "id": "shinxers-favorites",
     "title": "Shinxers Favorites",
     "description": "Silent pack ",
     "pointsReward":70,
@@ -286,7 +286,7 @@
                                     ]
   },
   {
-    "id": "Hotdoggs Favourites",
+    "id": "hotdoggs-favourites",
     "title": "Hotdoggs Favourites",
     "description": "Very Amazing Pack",
     "pointsReward":100,
@@ -294,6 +294,19 @@
       { "id": "lvl-1", "title": "Spectrum Cyclone" },
       { "id": "lvl-2", "title": "BROWNOIX" },
       { "id": "lvl-3", "title": "BROOKLYNBLOODPOP" }
+                              ]
+  },
+  {
+    "id": "first-extremes-pack-i",
+    "title": "First Extremes Pack I",
+    "description": "First extreme demons beaten by Zebra Members",
+    "pointsReward": 10,
+    "levels": [
+      { "id": "lvl-1", "title": "Idols" },
+      { "id": "lvl-2", "title": "Forbidden Isle" },
+      { "id": "lvl-3", "title": "Cataclysm" },
+      { "id": "lvl-4", "title": "niwa" },    
+      { "id": "lvl-5", "title": "Red World" }
     ]
   }
 ]
