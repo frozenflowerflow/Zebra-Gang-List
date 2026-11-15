@@ -239,4 +239,31 @@
       { "id": "lvl-5", "title": "me when machine gang (2p)" }
     ]
   }
+                                          ]
+  },
+  {
+    "id": "Toasobi Pack",
+    "title": "Toasobi Pack",
+    "description": "Im so kawaii",
+    "pointsReward": 50,
+    "levels": [
+      { "id": "lvl-1", "title": "Kuzureta" },
+      { "id": "lvl-2", "title": "Niwa" },
+      { "id": "lvl-3", "title": "Shukufuku" },
+      { "id": "lvl-4", "title": "Misureta" },    
+      { "id": "lvl-5", "title": "Kanpai" }
+    ]
+  },
+                        ]
+  },
+  {
+    "id": "Oscars Favs",
+    "title": "Oscars Favs",
+    "description": "Cool guy y'know",
+    "pointsReward": 40,
+    "levels": [
+      { "id": "lvl-1", "title": "Niwa" },
+      { "id": "lvl-2", "title": "DMG CTRL" },
+      { "id": "lvl-3", "title": "Cat Planet" }
+                                      ]
 ]
