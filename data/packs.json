@@ -3,7 +3,7 @@
     "id": "apocalyptic-trilogy",
     "title": "Apocalyptic Trilogy",
     "description": "Yes",
-    "pointsReward": 50,
+    "pointsReward": 20,
     "levels": [
       { "id": "lvl-1", "title": "Bloodbath" },
       { "id": "lvl-2", "title": "Cataclysm" },
@@ -25,7 +25,7 @@
     "id": "circles-pack-ii",
     "title": "Circles Pack II",
     "description": "Medium Like Circles Extremes",
-    "pointsReward": 100,
+    "pointsReward": 50,
     "levels": [
       { "id": "lvl-1", "title": "Cat Planet" },
       { "id": "lvl-2", "title": "Down Bass" },
@@ -36,7 +36,7 @@
     "id": "circles-pack-iii",
     "title": "Circles Pack III",
     "description": "Harder Circles Extremes",
-    "pointsReward": 150,
+    "pointsReward": 70,
     "levels": [
       { "id": "lvl-1", "title": "Infinite Inversion" },
       { "id": "lvl-2", "title": "Mujigae" },
@@ -47,11 +47,68 @@
     "id": "circles-pack-iv",
     "title": "Circles Pack IV",
     "description": "Some even HARDER extremes",
-    "pointsReward": 170,
+    "pointsReward": 100,
     "levels": [
       { "id": "lvl-1", "title": "Bausha Vortex" },
       { "id": "lvl-2", "title": "Sonic Wave" },
       { "id": "lvl-3", "title": "Hyper Paracosm" }
+                ]
+  },
+  {
+    "id": "triple-t-trilogy",
+    "title": "Triple T Trilogy",
+    "description": "The 3 ORIGINAL Triple T Dedications",
+    "pointsReward": 30,
+    "levels": [
+      { "id": "lvl-1", "title": "Shape of the Sun" },
+      { "id": "lvl-2", "title": "Cosmic Cluster II" },
+      { "id": "lvl-3", "title": "FISH FISH GODMODE" }
+              ]
+  },
+  {
+    "id": "the-movie-trilogy",
+    "title": "The Movie Trilogy",
+    "description": "The first ever Zebra Gang trilogy or Series",
+    "pointsReward": 100,
+    "levels": [
+      { "id": "lvl-1", "title": "Shutdown" },
+      { "id": "lvl-2", "title": "Sonic Wave" },
+      { "id": "lvl-3", "title": "Kuzureta" }
+                      ]
+  },
+  {
+    "id": "artificial-family-tree",
+    "title": "Artificials Family Tree",
+    "description": "The 3 Artificial Extremes",
+    "pointsReward": 10,
+    "levels": [
+      { "id": "lvl-1", "title": "Artificial Ascent" },
+      { "id": "lvl-2", "title": "Artificial Dream" },
+      { "id": "lvl-3", "title": "Artificial Climb" }
+                ]
+  },
+  {
+    "id": "bp-pack",
+    "title": "BP Pack",
+    "description": "Black Pill Pack",
+    "pointsReward": 15,
+    "levels": [
+      { "id": "lvl-1", "title": "The Flawless" },
+      { "id": "lvl-2", "title": "BRUTAL" },
+      { "id": "lvl-3", "title": "BRAINWASH" }
+                        ]
+  },
+  {
+    "id": "jokes-pack-i",
+    "title": "Jokes Pack I",
+    "description": "Zebra Gang Joke Pack I",
+    "pointsReward": 35,
+    "levels": [
+      { "id": "lvl-1", "title": "Annihilation Asian" },
+      { "id": "lvl-2", "title": "Glide" },
+      { "id": "lvl-3", "title": "Tung Tung Sahurcles" }
+      { "id": "lvl-4", "title": "Place" }    
+      { "id": "lvl-5", "title": "Gangnam Style" }
     ]
   }
 ]
