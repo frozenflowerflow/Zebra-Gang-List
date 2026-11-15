@@ -261,6 +261,18 @@
       { "id": "lvl-1", "title": "Niwa" },
       { "id": "lvl-2", "title": "DMG CTRL" },
       { "id": "lvl-3", "title": "Cat Planet" }
+                                          ] 
+  },
+  {
+    "id": "Dirotis Favorites",
+    "title": "Dirotis Favorites",
+    "description": "Non-human",
+    "pointsReward": 50,
+    "levels": [
+      { "id": "lvl-1", "title": "Omicron" },
+      { "id": "lvl-2", "title": "Idols" },
+      { "id": "lvl-3", "title": "Sunset Sandstorm" }
+                                          ] 
     ]
   }
 ]
