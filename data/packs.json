@@ -246,10 +246,10 @@
     "pointsReward": 50,
     "levels": [
       { "id": "lvl-1", "title": "Kuzureta" },
-      { "id": "lvl-2", "title": "Niwa" },
-      { "id": "lvl-3", "title": "Shukufuku" },
+      { "id": "lvl-2", "title": "Shukufuku" },
+      { "id": "lvl-3", "title": "Kanpai" },
       { "id": "lvl-4", "title": "Mizureta" },    
-      { "id": "lvl-5", "title": "Kanpai" }
+      { "id": "lvl-5", "title": "niwa" }
                                           ] 
   },
   {
@@ -258,9 +258,9 @@
     "description": "Cool guy y'know",
     "pointsReward": 40,
     "levels": [
-      { "id": "lvl-1", "title": "niwa" },
-      { "id": "lvl-2", "title": "DMG CTRL" },
-      { "id": "lvl-3", "title": "Cat Planet" }
+      { "id": "lvl-1", "title": "DMG CTRL" },
+      { "id": "lvl-2", "title": "Cat Planet" },
+      { "id": "lvl-3", "title": "niwa" }
                                           ] 
   },
   {
@@ -270,15 +270,15 @@
     "pointsReward": 70,
     "levels": [
       { "id": "lvl-1", "title": "Omicron" },
-      { "id": "lvl-2", "title": "Idols" },
-      { "id": "lvl-3", "title": "Sunset Sandstorm" }
+      { "id": "lvl-2", "title": "Sunset Sandstorm" },
+      { "id": "lvl-3", "title": "Idols" }
                                         ]
   },
   {
     "id": "shinxers-favorites",
     "title": "Shinxers Favorites",
     "description": "Silent pack ",
-    "pointsReward":70,
+    "pointsReward":100,
     "levels": [
       { "id": "lvl-1", "title": "CITRA" },
       { "id": "lvl-2", "title": "MISFIRE" },
